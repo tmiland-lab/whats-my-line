@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "dugite": "^1.86.0",
-    "superstring": "^2.4.4",
+    "superstring": "git+https://github.com/tmiland-lab/superstring.git#electron-modern",
     "what-the-diff": "^0.6.0"
   }
 }
